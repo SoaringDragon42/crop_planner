@@ -8,6 +8,16 @@ A tool for planning crop schedules in the Stardew Valley game.
 
 ---
 
+### New in v3
+
+* Brought the planner up-to-date to version 1.4
+* Greenhouse plans now carry over year-to-year
+* Fixed Bugs
+  * Fixed Profit Calculations
+  * Fixed Speed-Gro Fertilizer Math
+
+---
+
 ### New in v2
 
 * Multiple year planning
